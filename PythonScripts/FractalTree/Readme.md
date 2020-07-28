@@ -1,2 +1,2 @@
-Creates Fractal Tree image
+Create Fractal Tree image
 ![Example Output](FractalTree.png)
