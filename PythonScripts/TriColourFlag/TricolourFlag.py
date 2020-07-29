@@ -6,6 +6,7 @@ tt.penup()
 tt.goto(-100,-100)
 tt.pendown()
 
+tt.pencolor("Green")
 tt.fillcolor("Green")
 tt.begin_fill()
 
